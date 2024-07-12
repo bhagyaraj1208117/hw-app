@@ -1,6 +1,6 @@
 {
-  "name": "numbatx",
-  "version": "0.0.1",
+  "name": "@bhagyaraj_1208117/hw-app",
+  "version": "0.0.2",
   "description": "",
   "main": "lib/Nunbat.js",
   "scripts": {
@@ -38,4 +38,5 @@
     "flow-bin": "^0.130.0",
     "flow-copy-source": "^2.0.9"
   }
+
 }
